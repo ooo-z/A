@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# This is a comment.
+# About Vector Profile.
+## Icon
+- Click the icon at the top of the home screen to view the profiles of all characters.
+- Click the second button on the home screen to view a detailed description of the universe.
 
-# Run and deploy your AI Studio app
+## Userflow
+- They are organized by team. To view detailed character information, keep clicking on the subfolders.
+- You can go back by pressing the ‘UP’ button.
+- You can go back by pressing the ‘X’ button.
 
-This contains everything you need to run your app locally.
+## Detailed tap
+### Psychic power
+- At the bottom of the *“Psychic Power”* tab for each character, there is a **mini-game** that allows you to track the progression of this ability!
 
-View your app in AI Studio: https://ai.studio/apps/852a38a4-b741-458e-aeb3-fc344324b228
+### Theme Song
+- Click the LP button in the “Theme Songs” tab to play the music on a loop.
+- All songs support background playback.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Run Locally.
+- This is a prototype demo site.
